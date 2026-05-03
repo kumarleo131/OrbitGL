@@ -3,6 +3,7 @@ OrbitGL is a real-time 3D scene built using **OpenGL**, **GLFW**, and **CMake**.
 
 <img width="1566" height="830" alt="sunset" src="https://github.com/user-attachments/assets/6e0b2cde-14a6-4a45-8d48-dfe4c9049b66" />
 
+Features a dynamic sun with Phong lighting that reacts to its position. 
 
 ## Dependencies
 - **OpenGL 3.3+**
